@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "367581799887",
+    "firebase_url": "https://bookingtaxi-108df-default-rtdb.firebaseio.com",
+    "project_id": "bookingtaxi-108df",
+    "storage_bucket": "bookingtaxi-108df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367581799887:android:2f45c68c5f4e44daec5eba",
+        "android_client_info": {
+          "package_name": "com.dvl.bookingtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367581799887-a1i8ch2mj22l6mffi1birh26bpv97ans.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQoUfN_-agWBUEMlCNmk7TRvm2YRSNBCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367581799887-a1i8ch2mj22l6mffi1birh26bpv97ans.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367581799887:android:c75c660fcd01370aec5eba",
+        "android_client_info": {
+          "package_name": "com.example.taxibooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367581799887-a1i8ch2mj22l6mffi1birh26bpv97ans.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQoUfN_-agWBUEMlCNmk7TRvm2YRSNBCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367581799887-a1i8ch2mj22l6mffi1birh26bpv97ans.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
